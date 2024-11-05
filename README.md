@@ -1,5 +1,5 @@
 ## Hola soy Rocio Aranza 👋
-![](https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/Banner.png)
+![](https://github.com/AnaGallegos/Ana-Gallegos/blob/main/cocacolabmr.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVcfmRHhT2O61_OmnWHVPFw)](https://www.youtube.com/@RocíoAranzaSolísGarcía-m4g)
 [![Github](https://img.shields.io/github/followers/eloteconcacahuates12)](https://github.com/eloteconcacahuates12)
