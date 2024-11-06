@@ -1,4 +1,4 @@
-## Hola soy Rocio Aranza 👋
+## Hola soy Ana Gallegos 👋
 ![](https://github.com/AnaGallegos/Ana-Gallegos/blob/main/cocacolabmr.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVcfmRHhT2O61_OmnWHVPFw)](https://www.youtube.com/@RocíoAranzaSolísGarcía-m4g)
@@ -10,12 +10,12 @@
 ## Sobre mi:
 - 🔭 Actualmente, estoy estudiando en el Bachillerato Militarizado Reynosa.
 - 🌱 Estoy aprendiendo sobre programación.
-- 👯 Me gustaría colaborar con una empresa o maquila.
-- 🤔 Busco ayuda en algunos temas con mis profesores.
+- 👯 Me gustaría colaborar con una empresa.
+- 🤔 Busco ayuda con mis profesores.
 - 💬 Pregúntame sobre lo que más me gusta de la programación.
 - 📫 Encuentra mis redes sociales y formas de contacto en mi descripción.
-- 😄 Pronombres: arancita.
-- ⚡ Dato curioso: disfruto leer de vez en cuando. 
+- 😄 Pronombres: Gloria.
+- ⚡ Dato curioso: disfruto leer. 
 
 ## Experiencia en
 
@@ -27,7 +27,7 @@
 - 💜 Eclipse IDE, Brackets , NeatBeans IDE, VScode
 
 -------------------------------------------------------------------------------------------------
-## Proyectos *AraProg*
+## Proyectos *AnaProg*
 <table>
 <tr>
 <td width="50%">
