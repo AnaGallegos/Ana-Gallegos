@@ -27,7 +27,7 @@
 - 💜 Eclipse IDE, Brackets , NeatBeans IDE, VScode
 
 -------------------------------------------------------------------------------------------------
-## Proyectos *AnaProg*
+## Proyects
 <table>
 <tr>
 <td width="50%">
@@ -53,14 +53,14 @@
 <div align="center">
 <a href="https://github.com/eloteconcacahuates12/eloteconcacahuates12" target="_blank"><img src="https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
 <p>
-<a href="https://youtu.be/bz1PZgqe7qQ?si=5Iz2TntHNeRKNN0H"_blank">
+<a href="https://youtube.com/shorts/utf-UggQX94?feature=share"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">
+<a href="https://youtube.com/shorts/hqjyf-cwZWs?feature=share"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a integrar CSS a tu HTML <strong>Como podras dar un diseño a tu paguina web</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende mas sobre Git Hub <strong>Como podras aprender a utilizar Git Hub</strong> - Con esto tu aprenderas que es Git Hub y como crear una cuenta en esa misma.</p>
 </div>
   
 </td>  
