@@ -33,7 +33,7 @@
 <td width="50%">
 <h3 align="center">¿Que es Git Hub?</h3>
 <div align="center">
-<a href="https://github.com/eloteconcacahuates12/eloteconcacahuates12" target="_blank"><img src="https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
+<a href="https://github.com/eloteconcacahuates12/eloteconcacahuates12" target="_blank"><img src="https://github.com/AnaGallegos/Ana-Gallegos/blob/main/Screenshot_20241108-063815_Google.jpg" width="400" alt="Curso básico HTML"></a>
 <p>
 <a href="https://youtube.com/shorts/hqjyf-cwZWs?feature=share" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a programar con HTML <strong>Como hacer una paguina web basica</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende que es git hub <strong>Esta es la introduccion a git hub</strong> - En este curso aprenderas que es git hub.</p>
 </div>
 
 </td>
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende mas sobre Git Hub <strong>Como podras aprender a utilizar Git Hub</strong> - Con esto tu aprenderas que es Git Hub y como crear una cuenta en esa misma.</p>
+<p>Aprende mas sobre Git Hub <strong>Como podras aprender a utilizar Git Hub</strong> - Con esto tu aprenderas como crear una cuenta en esa misma.</p>
 </div>
   
 </td>  
