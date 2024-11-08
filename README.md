@@ -23,8 +23,7 @@
 - 🌅 Diseño/estilos en CSS
 - 🌱 JavaScript
 - 👩🏽‍💻 C++
-- 💫 Java
-- 💜 Eclipse IDE, Brackets , NeatBeans IDE, VScode
+- 💜 Eclipse IDE, Brackets , VScode
 
 -------------------------------------------------------------------------------------------------
 ## Proyects
