@@ -1,7 +1,7 @@
 ## Hola soy Ana Gallegos 👋
 ![](https://github.com/AnaGallegos/Ana-Gallegos/blob/main/banner.png.png)
 
-[![YouTube Channel Subscribers](https://www.youtube.com/@AnaAventurasProgramadoras-x6c)]
+[![YouTube Channel Subscribers](https://www.youtube.com/@AnaAventurasProgramadoras-x6c)](https://www.youtube.com/@AnaAventurasProgramadoras-x6c)
 [![Github](https://img.shields.io/github/followers/eloteconcacahuates12)](https://github.com/eloteconcacahuates12)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)](https://www.instagram.com/rocioaranzasolisgarcia/)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=Sigueme&color=ffa07a&style=social&logo=facebook)](https://www.facebook.com/profile.php?id=61567030155997)
