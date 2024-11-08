@@ -51,7 +51,7 @@
                <br>
 <h3 align="center">Has una cuenta en Git Hub</h3>
 <div align="center">
-<a href="https://github.com/eloteconcacahuates12/eloteconcacahuates12" target="_blank"><img src="https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
+<a href="https://github.com/eloteconcacahuates12/eloteconcacahuates12" target="_blank"><img src="https://github.com/AnaGallegos/Ana-Gallegos/blob/main/cuentaengit.png.jpg" width="400" alt="Curso básico HTML con CSS"></a>
 <p>
 <a href="https://youtube.com/shorts/utf-UggQX94?feature=share"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
